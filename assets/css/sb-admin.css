@@ -1,0 +1,47 @@
+.border-left-success {
+    border-left: .25rem solid #1cc88a!important;
+}
+
+.border-left-primary {
+    border-left: .25rem solid #4e73df!important;
+}
+
+.border-left-info {
+    border-left: .25rem solid #36b9cc!important;
+}
+
+.border-left-danger {
+    border-left: .25rem solid #dc3545!important;
+}
+
+.border-left-Maroon {
+    border-left: .25rem solid #ca195a!important;
+}
+
+.border-left-warning {
+    border-left: .25rem solid #db8b0b!important;
+}
+
+.border-left-navy {
+    border-left: .25rem solid #001a35!important;
+}
+
+.border-left-purple {
+    border-left: .25rem solid #555299!important;
+}
+
+.border-left-black {
+    border-left: .25rem solid #000000!important;
+}
+
+.text-maroon{
+    color: #ca195a;
+}
+
+.text-navy{
+    color: #001a35;
+}
+
+.text-purple{
+    color: #555299;
+}
