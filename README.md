@@ -1,15 +1,16 @@
-Sistema de Gestão de Transportes construído com:
+# Sistema de Gestão de Transportes
+
+## Tecnologias utilizadas:
 * PHP 5
 * JQuery 3.3.1
 * MySQL 5.3
 * Framework Code Igniter 2 (PHP 5.1+)
 * Framework Boostrap v. 4.3.1 (CSS)
 * DataTables v. 1.10.19
-############################################################################################################################################################################
-Este é o Sistema de Gerenciamento de Transportes, desenvolvido para a realização das solicitações de transportes e gerenciamento da frota de veículos da sua empresa.
-############################################################################################################################################################################
 
-#######################################################  Passos para Utilizar o SG-Transportes ##############################################################
+Este é o Sistema de Gerenciamento de Transportes, desenvolvido para a realização das solicitações de transportes e gerenciamento da frota de veículos da sua empresa.
+
+## Passos para Utilizar o SG-Transportes
 
 1 - Criar Um Banco (MySQL);
 2 - Importar o SQL da Pasta "Banco de Dados" de nome sgtrans.sql para o banco criado no passo 1;
@@ -27,5 +28,3 @@ Senha
 123
 
 OBS: dentro da pasta "Banco de Dados" temos 2 .sql - Marca e modelo caso queira utilizar;
-
-############################################################################################################################################################################
